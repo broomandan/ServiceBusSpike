@@ -1,0 +1,4 @@
+bin/
+obj/
+packages/
+*.v12.suo
